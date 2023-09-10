@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/single-grid-tailwind-reactjs/static/css/main.83c30194.css",
+    "main.js": "/single-grid-tailwind-reactjs/static/js/main.0a4231d1.js",
+    "index.html": "/single-grid-tailwind-reactjs/index.html",
+    "main.83c30194.css.map": "/single-grid-tailwind-reactjs/static/css/main.83c30194.css.map",
+    "main.0a4231d1.js.map": "/single-grid-tailwind-reactjs/static/js/main.0a4231d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83c30194.css",
+    "static/js/main.0a4231d1.js"
+  ]
+}
